@@ -1,0 +1,4 @@
+C:\Users\charl\Documents\GitHub Projects\Space Fleet Clash\Space-Fleet-Clash\game\Debug\Boids.exe
+C:\Users\charl\Documents\GitHub Projects\Space Fleet Clash\Space-Fleet-Clash\game\Debug\Boids.pdb
+C:\Users\charl\Documents\GitHub Projects\Space Fleet Clash\Space-Fleet-Clash\Game FIles\game\Debug\Boids.exe
+C:\Users\charl\Documents\GitHub Projects\Space Fleet Clash\Space-Fleet-Clash\Game FIles\game\Debug\Boids.pdb
